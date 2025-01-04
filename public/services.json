@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.ibb.co/5sBdQ9F/Card1.jpg",
+      "serviceName": "Career Counseling Sessions",
+      "category": "Online",
+      "description": "One-on-one counseling sessions to help you explore and decide on a suitable career path.",
+      "pricing": "$50 per session",
+      "duration": "05-12-24 | 5:00 PM - 6:00 PM",
+      "counselor": "Dr. Emily Brown",
+      "rating": 4.8,
+      "learnMore": "/services/career-counseling"
+    },
+    {
+      "id": 2,
+      "image": "https://i.ibb.co/hYH3Frq/Card2.jpg",
+      "serviceName": "Resume Review",
+      "category": "Offline",
+      "description": "Expert guidance to craft a professional and impactful resume tailored to your dream job.",
+      "pricing": "$30",
+      "duration": "06-12-24 | 3:00 PM - 4:30 PM",
+      "counselor": "Mr. John Doe",
+      "rating": 4.7,
+      "learnMore": "/services/resume-review"
+    },
+    {
+      "id": 3,
+      "image": "https://i.ibb.co/CBLRHyY/Card3.jpg",
+      "serviceName": "Group Career Workshops",
+      "category": "Group",
+      "description": "Interactive group sessions to discuss career trends and opportunities.",
+      "pricing": "$20 per participant",
+      "duration": "07-12-24 | 10:00 AM - 12:00 PM",
+      "counselor": "Ms. Sarah Lee",
+      "rating": 4.9,
+      "learnMore": "/services/group-workshops"
+    },
+    {
+      "id": 4,
+      "image": "https://i.ibb.co/PMCgH6S/smiley-man-work-holding-laptop-posing-23-2148908835.jpg",
+      "serviceName": "Mock Interviews",
+      "category": "Online",
+      "description": "Prepare for your dream job with realistic mock interview sessions.",
+      "pricing": "$40",
+      "duration": "08-12-24 | 6:00 PM - 7:00 PM",
+      "counselor": "Dr. Michael Smith",
+      "rating": 4.8,
+      "learnMore": "/services/mock-interviews"
+    },
+    {
+      "id": 5,
+      "image": "https://i.ibb.co/f0n1w6S/medium-shot-business-woman-pointing-with-copy-space-23-2148218563.jpg",
+      "serviceName": "Skill Assessment",
+      "category": "Online",
+      "description": "Comprehensive skill assessments to identify your strengths and career potential.",
+      "pricing": "$25",
+      "duration": "09-12-24 | 4:00 PM - 5:00 PM",
+      "counselor": "Ms. Laura Adams",
+      "rating": 4.6,
+      "learnMore": "/services/skill-assessment"
+    },
+    {
+      "id": 6,
+      "image": "https://i.ibb.co/DYY2yZf/portrait-man-standing-with-arms-crossed-1170-1904.jpg",
+      "serviceName": "Career Guidance for Students",
+      "category": "Offline",
+      "description": "Tailored guidance for students to choose the right academic and career path.",
+      "pricing": "$35",
+      "duration": "10-12-24 | 2:00 PM - 3:30 PM",
+      "counselor": "Mr. David Wilson",
+      "rating": 4.9,
+      "learnMore": "/services/student-guidance"
+    }
+  ]
+  
