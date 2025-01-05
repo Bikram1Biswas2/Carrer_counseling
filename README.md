@@ -11,7 +11,7 @@ Currently, two official plugins are available:
 Ans=> Career Compass.
 
 # 2-LiveSite Link--
-Ans=> https://carrer-couseling.netlify.app/
+Ans=> https://carrercompass.netlify.app
 
 3-Features of this project-
 Ans=> 1. User Authentication
